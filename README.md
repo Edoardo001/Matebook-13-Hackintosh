@@ -7,7 +7,7 @@
 * trackpad
 * sensors 
 * audio
-* almost all exept thing listen in "bugs"
+* almost all exept thing listed in "bugs"
 
 **Bugs:**
 * Bluetooth and Wifi wont working
