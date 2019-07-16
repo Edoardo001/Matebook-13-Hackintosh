@@ -25,4 +25,4 @@ _Raccomandations:_
 I'm working on this project to get almost fully functional hackintosh build on this laptop
 if you want to help me or join in project you can write me an email: edoardo001ct@gmail.com
 
-_If you want to buy me a beer please click here:_ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
+*_If you want to buy me a beer please click here:_*  https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
