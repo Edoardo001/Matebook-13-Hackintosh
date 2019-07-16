@@ -26,5 +26,7 @@ I'm working on this project to get almost fully functional hackintosh build on t
 if you want to help me or join in project you can write me an email: edoardo001ct@gmail.com
 
 _**If you want to buy me a beer please click here:**_
- [Buy me a beer]https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
-).  https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
+ [Buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
+). 
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
