@@ -1,7 +1,7 @@
 ## Matebook-13-Hackintosh
 
 
-#Whats work
+**Whats work**
 * Graphics accelaration
 * Battery stats 
 * trackpad
@@ -9,12 +9,12 @@
 * audio
 * almost all exept thing listen in "bugs"
 
-_Bugs:_
+**Bugs:**
 * Bluetooth and Wifi wont working
 * nb: wifi card is replaceble but bios need to be modified to get it working
 * Brightness setting shortcuts
 
-_Raccomandations:_
+**Raccomandations:**
 * Format SSD to Mac  Mac OS Extended (Journaled)
 * Use left usb port or will get errors during installation
 * Use a usb hub during installation or a OTG usb C adaptator to use usb c port as usb
@@ -25,5 +25,5 @@ _Raccomandations:_
 I'm working on this project to get almost fully functional hackintosh build on this laptop
 if you want to help me or join in project you can write me an email: edoardo001ct@gmail.com
 
-_*If you want to buy me a beer please click here:_* 
+_**If you want to buy me a beer please click here:**_
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
