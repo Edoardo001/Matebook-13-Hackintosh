@@ -1,4 +1,4 @@
-## Huawei Matebook 13 Hackintosh
+## Huawei Matebook 13 Hackintosh LAST UPDATE 2019/07/18
 
 This is files to reach a nearly fully stable hackintosh on Huawei Matebook 13.
 After some night spent on it, almost all works(except WiFi)
@@ -26,6 +26,40 @@ In the next days I will try to mod bios to read broadcom WiFi card
 * During installation may occur that pc shut down after clover selection for the first two attempt
 * Versions with Samsung PM981 NVMe need ssd to be replaced
 * Versions with Western Digital nvme work out of the box 
+
+**Installation**
+* Download Osx from the appstore with a existing mac/hackintosh or with a vmware virtual machine(google is your friend)
+* Format a usb drive, Mac OS(Journaled)GTP partition scheme and rename it in "osx" (at least 8GB)
+* To create the usb installer launche this command:
+" sudo "/Applications/Install macOS Mojave.app/Contents/Resources/createinstallmedia" --volume  /Volumes/osx --nointeraction " osx is the name of the usb drive, so if you use different name you have to change it in the path of the command
+* Install Clover [Download Clover v2.4k r4972](https://sourceforge.net/projects/cloverefiboot/files/Installer/Clover_v2.4k_r4972.zip/download)
+* Choose Usb drive as destination of the install and then click on the "Ad hoc" button to choose what we need
+Select "Clover for UEFI booting only" and continue the installation.
+* On the efi partition of the usb drive(it's mounted by default after the clover installation, if you need to mount it use command "sudo diskutil mount disk*s*",in the '*' you have to put your disk and partition number.) you have to copy the content of **CloverInstallation** in each folder of your efi partiton(delete the previus content)
+* Now the installation should go on with no problems(If your screen turn off after Clover selection) just do another 2/3 attempts(system will reboot during installation, and you have to select the mac os HDD from clover selection in bootloader). Remember to format your drive. in Mac OS(Journaled) in disk utility in the installation, or the process will fail.
+
+**Post Installation**
+* After boot, install same clover used in the installation, but this time on HDD
+* Extract **CloverPost** from my repository and copy the content in each EFI/Clover like you did for the installation process, but this time on the HDD
+* Extract the **kext.zip** and type this commands to install kext in Library/Extensions
+" cd Desktop/kexts "
+" sudo cp -R *.kext /Library/Extensions/ "
+Now we need to rebuild kernel cache, so launch this other command
+- sudo kextcache -i /
+* Disable hibernation by launching this command one at time
+" sudo pmset -a hibernatemode 0 "
+" sudo rm /var/vm/sleepimage "
+" sudo mkdir /var/vm/sleepimage "
+
+" sudo pmset -a standby 0 "
+" sudo pmset -a autopoweroff 0 "
+* Reboot and enjoy your Hackintosh(Some thing maybe wont work perfect, this is a continuos work in progress, so read carefully before complain"
+
+
+
+
+
+
 
 I'm working on this project to get almost fully functional hackintosh build on this laptop
 if you want to help me or join in project you can write me an email: edoardo001ct@gmail.com
