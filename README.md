@@ -2,9 +2,9 @@
 
 ## I'm not responsible for damage, termonuclear war or pregnant wife. Sorry for my bad english, i've done my best 
 This guide is designed for Huawei Matebook 13.
-After some night spent on it, almost all works(except WiFi)
+After some night spent on it, almost all works(except WiFi).
 In the next days I will try to mod bios to read broadcom WiFi card
-Many thanks to tonymac forum
+nb. Many thanks to tonymac forum
 
 
 
