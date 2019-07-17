@@ -13,7 +13,7 @@
 * Bluetooth and Wifi wont working
 * nb: wifi card is replaceble but bios need to be modified to get it working
 * Brightness setting shortcuts
-* With the kext to get touchpad working(Vodooi2c and vodooi2chid) it takes like 5 minute to boot)
+* Sometimes boot fail(working to solve)
 
 **Raccomandations:**
 * Format SSD to Mac  Mac OS Extended (Journaled)
