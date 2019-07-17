@@ -1,4 +1,4 @@
-## Huawei Matebook 13 Hackintosh LAST UPDATE 2019/07/18
+## Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/18
 
 This is files to reach a nearly fully stable hackintosh on Huawei Matebook 13.
 After some night spent on it, almost all works(except WiFi)
