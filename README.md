@@ -1,4 +1,4 @@
-## Huawei Matebook-13-Hackintosh
+## Huawei Matebook 13 Hackintosh
 
 This is files to reach a nearly fully stable hackintosh on Huawei Matebook 13.
 After some night spent on it, almost all works(except WiFi)
