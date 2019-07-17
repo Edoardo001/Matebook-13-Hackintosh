@@ -1,4 +1,8 @@
-## Matebook-13-Hackintosh
+## Huawei Matebook-13-Hackintosh
+
+This is files to reach a nearly fully stable hackintosh on Huawei Matebook 13.
+After some night spent on it, almost all works(except WiFi)
+In the next days I will try to mod bios to read broadcom WiFi card
 
 
 **Whats work**
