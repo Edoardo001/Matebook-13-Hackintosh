@@ -24,6 +24,12 @@ nb. Many thanks to tonymac forum
 * Brightness setting shortcuts
 * Sometimes boot fail(work in progress)
 
+**What you need:**
+* Working mac(hackinosh or vmware virtual machine are good too)
+* Usb hub for the installation(connected on the usb port of huawei original adaptator. If you have a usb type c otg connector you can use it to turn usb c port to usb a)
+* Usb drive(al least 8GB)
+
+
 **Raccomandations:**
 * Format SSD to Mac  Mac OS Extended (Journaled)
 * Use left usb port or will get errors during installation
@@ -55,7 +61,7 @@ Once you have access of your usb drive EFi partition, copy the content of **Clov
 **Post Installation**
 * After boot, install same clover used in the installation, but this time on HDD
 * Extract **CloverPost.zip** from my repository and copy the content in each EFI/Clover like you did for the installation process, but this time on the HDD
-* Extract the **kext.zip** in the desktop and type this commands to install kext in Library/Extensions
+* Extract the **Kext.zip** in the desktop and type this commands to install kext in Library/Extensions
 
 > cd Desktop/kexts 
 
