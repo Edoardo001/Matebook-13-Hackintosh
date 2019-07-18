@@ -40,25 +40,31 @@ nb. Many thanks to tonymac forum
 
 osx is the name of the usb drive, so if you use different name you have to change it in the path of the command
 * Install Clover [Download Clover v2.4k r4972](https://sourceforge.net/projects/cloverefiboot/files/Installer/Clover_v2.4k_r4972.zip/download)
-* Choose Usb drive as destination of the install and then click on the "Ad hoc" button,
+* Choose Usb drive as destination and click on the "Ad hoc" button,
 select "Clover for UEFI booting only" and continue the installation.
-* On the efi partition of the usb drive(it's mounted by default after the clover installation, if you need to mount it use command 
-> sudo diskutil mount disk1s1
-'disk1s1' may differ according to your partition scheme, can find this command to see your partition scheme
+* After Clover installation by default EFI partition of usb drive should be mounted, if not, you should mount it manually using this command 
+> sudo diskutil mount disk2s1
+
+'disk2s1' may change according to your partition scheme. To know which is the partition you need to mount(EFI of usb drive), use this other command
+
 >diskutil list
 
-Once you have access of your usb drive EFi partition, copy the content of **CloverInstallation** in each corrisponding folder of your EFI/Clover partiton(delete the previus content)
-* Now the installation should go on with no problems(If your screen turn off after Clover selection) just do another 2/3 attempts(system will reboot during installation, and you have to select the mac os HDD from clover selection in bootloader). Remember to format your drive. in Mac OS(Journaled) in disk utility in the installation, or the process will fail.
+Once you have access of your usb drive EFi partition, copy the content of **CloverInstallation.zip** in each corrisponding folder of your EFI/CLOVER partiton(delete the previus content)
+* Now the installation should go on with no problems(If your screen turn off after Clover selection) just do another 2/3 attempts(system will reboot during installation, select the mac os HDD from clover selection in bootloader). Remember to format your drive Mac OS(Journaled) in disk utility before installation, or the process will fail.
 
 **Post Installation**
 * After boot, install same clover used in the installation, but this time on HDD
-* Extract **CloverPost** from my repository and copy the content in each EFI/Clover like you did for the installation process, but this time on the HDD
+* Extract **CloverPost.zip** from my repository and copy the content in each EFI/Clover like you did for the installation process, but this time on the HDD
 * Extract the **kext.zip** in the desktop and type this commands to install kext in Library/Extensions
+
 > cd Desktop/kexts 
 
 > sudo cp -R *.kext /Library/Extensions/ 
+
 Now we need to rebuild kernel cache, so launch this other command
+
 > sudo kextcache -i /
+
 * Disable hibernation by launching this command one at time
 > sudo pmset -a hibernatemode 0 
 
