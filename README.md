@@ -1,4 +1,15 @@
-# Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/18
+# Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/19
+
+**Changelog**
+2019/07/19
+Fixed boot problems
+2019/07/17
+Fixed Touchpad
+Fixed Sensors
+Fixed Battery detection
+Polish here and there
+2019/07/15
+Initial
 
 ## I'm not responsible for damage, termonuclear war or pregnant wife. Sorry for my bad english, i've done my best 
 This guide is designed for Huawei Matebook 13.
@@ -19,10 +30,8 @@ nb. Many thanks to tonymac forum
 * almost all exept thing listed in "bugs"
 
 **Bugs:**
-* Bluetooth and Wifi wont working
-* nb: wifi card is replaceble but bios need to be modified to get it working
+* Bluetooth and Wifi wont working (nb: wifi card is replaceble but whitelisted in bios, so we need a mod one to read a non intel wifi card)
 * Brightness setting shortcuts
-* Sometimes boot fail(work in progress)
 
 **What you need:**
 * Working mac(hackinosh or vmware virtual machine are good too)
