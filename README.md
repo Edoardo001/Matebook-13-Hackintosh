@@ -1,5 +1,7 @@
 # Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/19
 
+**[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
+
 **Changelog**
 2019/07/19
 Fixed boot problems
