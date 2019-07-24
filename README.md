@@ -3,11 +3,11 @@
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
 **In the next release**
-Working brightness managment
-Working brightness key shortcut
-General optimization(thanks my friend Technotron) 
+*Working brightness managment
+*Working brightness key shortcut
+*General optimization(thanks my friend Technotron) 
 
-Maybe, but it's very hard and risky
+*Maybe, but it's very hard and risky
 Bios mod(by Technotron) to read Broadcom wifi card(It needs a EEPROM Flash bios usb programmer)
 
 **Changelog**
