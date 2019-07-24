@@ -2,6 +2,14 @@
 
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
+**In the next release**
+Working brightness managment
+Working brightness key shortcut
+General optimization(thanks my friend Technotron) 
+
+Maybe, but it's very hard and risky
+Bios mod(by Technotron) to read Broadcom wifi card(It needs a EEPROM Flash bios usb programmer)
+
 **Changelog**
 2019/07/19
 Fixed boot problems
@@ -94,7 +102,6 @@ Now we need to rebuild kernel cache, so launch this other command
 > sudo pmset -a autopoweroff 0 
 
 * Reboot and enjoy your Hackintosh(Some thing maybe wont work perfect, this is a continuos work in progress, so read carefully before complain"
-
 
 
 
