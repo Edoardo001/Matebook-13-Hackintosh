@@ -11,15 +11,15 @@
 Bios mod(by Technotron) to read Broadcom wifi card(It needs a EEPROM Flash bios usb programmer)
 
 **Changelog**
-2019/07/19
-Fixed boot problems
-2019/07/17
-Fixed Touchpad
-Fixed Sensors
-Fixed Battery detection
-Polish here and there
-2019/07/15
-Initial
+* 2019/07/19
+* Fixed boot problems
+* 2019/07/17
+* Fixed Touchpad
+* Fixed Sensors
+* Fixed Battery detection
+* Polish here and there
+* 2019/07/15
+* Initial release
 
 ## I'm not responsible for damage, termonuclear war or pregnant wife. Sorry for my bad english, i've done my best 
 This guide is designed for Huawei Matebook 13.
