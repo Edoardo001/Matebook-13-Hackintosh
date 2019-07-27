@@ -3,11 +3,8 @@
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
 **In the next release**
-Better battery drain
+*Better battery drain
 
-
-* Maybe, but it's very hard and risky
-Bios mod(by Technotron) to read Broadcom wifi card(It needs a EEPROM Flash bios usb programmer)
 
 **Changelog**
 * 2019/07/27
