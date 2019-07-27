@@ -1,4 +1,4 @@
-# Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/19
+# Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/27
 
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
@@ -12,14 +12,16 @@ Bios mod(by Technotron) to read Broadcom wifi card(It needs a EEPROM Flash bios 
 
 **Changelog**
 * 2019/07/19
-* Fixed boot problems
+ Fixed boot problems
+
 * 2019/07/17
-* Fixed Touchpad
-* Fixed Sensors
-* Fixed Battery detection
-* Polish here and there
+ Fixed Touchpad
+ Fixed Sensors
+ Fixed Battery detection
+ Polish here and there
+
 * 2019/07/15
-* Initial release
+ Initial release
 
 ## I'm not responsible for damage, termonuclear war or pregnant wife. Sorry for my bad english, i've done my best 
 This guide is designed for Huawei Matebook 13.
