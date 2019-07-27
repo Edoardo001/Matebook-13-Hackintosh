@@ -14,17 +14,17 @@
 - Seems fixed audio sommetimes don't work(if happen, you tell me)
 - Update clover to the v2.5k_r5018
 
-* 2019/07/19
- -Fixed boot problems
+* **2019/07/19**
+ - Fixed boot problems
 
-* 2019/07/17
- -Fixed Touchpad
- -Fixed Sensors
- -Fixed Battery detection
- -Polish here and there
+* **2019/07/17**
+ - Fixed Touchpad
+ - Fixed Sensors
+ - Fixed Battery detection
+ - Polish here and there
 
-* 2019/07/15
- -Initial release
+* **2019/07/15**
+ - Initial release
 
 ## I'm not responsible for damage, termonuclear war or pregnant wife. Sorry for my bad english, i've done my best 
 This guide is designed for Huawei Matebook 13.
