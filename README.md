@@ -15,6 +15,7 @@ Bios mod(by Technotron) to read Broadcom wifi card(It needs a EEPROM Flash bios 
 - Fixed brithtness selector
 - Fixed panic at boot with "OSI to XOSI" rename
 - Seems fixed audio sommetimes don't work(if happen, you tell me)
+- Update clover to the v2.5k 5018
 
 * 2019/07/19
  -Fixed boot problems
@@ -71,7 +72,7 @@ nb. Many thanks to tonymac forum
 > sudo "/Applications/Install macOS Mojave.app/Contents/Resources/createinstallmedia" --volume  /Volumes/osx --nointeraction 
 
 osx is the name of the usb drive, so if you use different name you have to change it in the path of the command
-* Install Clover [Download Clover v2.4k r4972](https://sourceforge.net/projects/cloverefiboot/files/Installer/Clover_v2.4k_r4972.zip/download)
+* Install Clover [Download Clover v2.5k r5018](https://sourceforge.net/projects/cloverefiboot/files/Installer/Clover_v2.5k_r5018.zip/download)
 * Choose Usb drive as destination and click on the "Ad hoc" button,
 select "Clover for UEFI booting only" and continue the installation.
 * After Clover installation by default EFI partition of usb drive should be mounted, if not, you should mount it manually using this command 
