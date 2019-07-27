@@ -3,25 +3,30 @@
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
 **In the next release**
-* Working brightness managment
-* Working brightness key shortcut
-* General optimization(thanks my friend Technotron) 
+Better battery drain
+
 
 * Maybe, but it's very hard and risky
 Bios mod(by Technotron) to read Broadcom wifi card(It needs a EEPROM Flash bios usb programmer)
 
 **Changelog**
+* 2019/07/27
+- Fixed brightness shortcut
+- Fixed brithtness selector
+- Fixed panic at boot with "OSI to XOSI" rename
+- Seems fixed audio sommetimes don't work(if happen, you tell me)
+
 * 2019/07/19
- Fixed boot problems
+ -Fixed boot problems
 
 * 2019/07/17
- Fixed Touchpad
- Fixed Sensors
- Fixed Battery detection
- Polish here and there
+ -Fixed Touchpad
+ -Fixed Sensors
+ -Fixed Battery detection
+ -Polish here and there
 
 * 2019/07/15
- Initial release
+ -Initial release
 
 ## I'm not responsible for damage, termonuclear war or pregnant wife. Sorry for my bad english, i've done my best 
 This guide is designed for Huawei Matebook 13.
@@ -43,7 +48,7 @@ nb. Many thanks to tonymac forum
 
 **Bugs:**
 * Bluetooth and Wifi wont working (nb: wifi card is replaceble but whitelisted in bios, so we need a mod one to read a non intel wifi card)
-* Brightness setting shortcuts
+* Camera(maybe not compatible with osx) will try
 
 **What you need:**
 * Working mac(hackinosh or vmware virtual machine are good too)
