@@ -15,7 +15,7 @@ Bios mod(by Technotron) to read Broadcom wifi card(It needs a EEPROM Flash bios 
 - Fixed brithtness selector
 - Fixed panic at boot with "OSI to XOSI" rename
 - Seems fixed audio sommetimes don't work(if happen, you tell me)
-- Update clover to the v2.5k 5018
+- Update clover to the v2.5k_r5018
 
 * 2019/07/19
  -Fixed boot problems
