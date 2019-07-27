@@ -7,7 +7,7 @@
 
 
 **Changelog**
-* 2019/07/27
+* **2019/07/27**
 - Fixed brightness shortcut
 - Fixed brithtness selector
 - Fixed panic at boot with "OSI to XOSI" rename
