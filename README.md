@@ -8,7 +8,7 @@
 
 **Changelog**
 * **2019/07/28**
-Fixed audio, headphone jack(Can select in setting between internal speaker and headphones)
+- Fixed audio, headphone jack(Can select in setting between internal speaker and headphones)
 
 
 * **2019/07/27**
