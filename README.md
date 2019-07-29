@@ -1,9 +1,11 @@
 # Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/27
+## I spent the majority of my spare time on this project, so if you want to support my works consider to make a donation(info at the end of the guide). 
 
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
 **In the next release**
-*Better battery drain
+- Better battery drain(Cpu Friend kext)
+- SSDT for usb injection(better battery drain, working camera?)
 
 
 **Changelog**
