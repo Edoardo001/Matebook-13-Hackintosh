@@ -1,5 +1,5 @@
 # Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/27
-## I spent the majority of my spare time on this project, so if you want to support my works consider to make a donation(info at the end of the guide). 
+## I've spent the majority of my spare time on this project, so if you want to support my works consider to make a donation(info at the end of the guide). 
 
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
@@ -18,7 +18,7 @@
 - Fixed brithtness selector
 - Fixed panic at boot with "OSI to XOSI" rename
 - Seems fixed audio sommetimes don't work(if happen, you tell me)
-- Update clover to the v2.5k_r5018
+- Updated clover to the v2.5k_r5018
 
 * **2019/07/19**
  - Fixed boot problems
@@ -56,7 +56,7 @@ nb. Many thanks to tonymac forum
 * Usb drived will not display if connected on the hub in the right port of the laptop. To use right usb port with usb drive i use an otg usb c adapter. Other that usb drive, all dongle, mouse etc... work flawlessly
 
 **What you need:**
-* Working mac(hackinosh or vmware virtual machine are good too)
+* A working mac(hackinosh or vmware virtual machine are good too)
 * Usb hub for the installation(connected on the usb port of huawei original adaptator. If you have a usb type c otg connector you can use it to turn usb c port to usb a)
 * Usb drive(al least 8GB)
 
