@@ -116,7 +116,16 @@ Now we need to rebuild kernel cache, so launch this other command
 * Reboot and enjoy your Hackintosh(Some thing maybe wont work perfect, this is a continuos work in progress, so read carefully before complain"
 
 
+**Optimizations**
+* If app has problem starting, try add this bootflags 
+> shikigva=32
+> shiki-id=Mac-7BA5B2D9E42DDD94
 
+*To get better battery life, you can use cpu friend kext 
+run this command 
+> bash -c "$(curl -fsSL https://raw.githubusercontent.com/stevezhengshiqi/one-key-cpufriend/master/one-key-cpufriend.sh)"
+You have to choose in terminal what configuration, i've choosed 800mhz and maximum power saving. I will generate 2 kext on the desktop that you have to install in "/Library/Extensions" folder.
+Thanks to [Stevezhengshiqi OneKey CPU Friend](https://sourceforge.net/projects/cloverefiboot/files/Installer/Clover_v2.5k_r5018.zip/download).
 
 
 
