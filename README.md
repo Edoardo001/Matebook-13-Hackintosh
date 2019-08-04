@@ -1,4 +1,4 @@
-# Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/07/27
+# Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2019/08/04
 ## I've spent the majority of my spare time on this project, so if you want to support my works consider to make a donation(info at the end of the guide). 
 
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
@@ -9,6 +9,10 @@
 
 
 **Changelog**
+* **2019/08/04**
+- With SSDT-USB patch the system now have right usb injection(better battery life)
+- To get a better battery life use "One command CPU Friend"(end of the guide)
+
 * **2019/07/28**
 - Fixed audio, headphone jack(Can select in setting between internal speaker and headphones)
 
