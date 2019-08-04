@@ -57,7 +57,7 @@ nb. Many thanks to tonymac forum
 **Bugs:**
 * Bluetooth and Wifi wont working (nb: wifi card is replaceble but whitelisted in bios, so we need a mod one to read a non intel wifi card)
 * Camera(maybe not compatible with osx) will try
-* Usb drived will not display if connected on the hub in the right port of the laptop. To use right usb port with usb drive i use an otg usb c adapter. Other that usb drive, all dongle, mouse etc... work flawlessly
+* Some problems with audio id layouts(config.plist > device > properties), 28 make headphone working(crappy sound) and broke mic, 13 make mic working, but not headphones(i use usb c headphones, or esternal sound card to use 3,5 jack)
 
 **What you need:**
 * A working mac(hackinosh or vmware virtual machine are good too)
