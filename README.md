@@ -126,6 +126,13 @@ Now we need to rebuild kernel cache, so launch this other command
 
 > shiki-id=Mac-7BA5B2D9E42DDD94
 
+* Remove red badge(1) of setting icon on the dock when updates are available
+
+>defaults write com.apple.systempreferences AttentionPrefBundleIDs 0
+
+>killall Dock
+
+
 *To get better battery life, you can use cpu friend kext 
 run this command 
 > bash -c "$(curl -fsSL https://raw.githubusercontent.com/stevezhengshiqi/one-key-cpufriend/master/one-key-cpufriend.sh)"
