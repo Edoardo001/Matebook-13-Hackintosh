@@ -4,8 +4,10 @@
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
 **In the next release**
-- Better battery drain(Cpu Friend kext)
-- SSDT for usb injection(better battery drain, working camera?)
+No time to work on it until summer.
+Hoping that in this month, some dev finish intel wifi card porting porting, so the project can reach the next level.
+- Catalina??
+- Wifi card support??
 
 
 **Changelog**
