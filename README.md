@@ -55,7 +55,7 @@ nb. Many thanks to tonymac forum
 * almost all exept thing listed in "bugs"
 
 **Bugs:**
-* Bluetooth and Wifi wont working (nb: wifi card is replaceble but whitelisted in bios, so we need a mod one to read a non intel wifi card)
+* Bluetooth and Wifi wont working (nb: wifi card is replaceble but whitelisted in bios, so we need a mod one to read a non intel wifi card) Bluetooth work only on hot boot from linux or windows
 * Camera(maybe not compatible with osx) will try
 * Some problems with audio id layouts(config.plist > device > properties), 28 make headphone working(crappy sound) and broke mic, 13 make mic working, but not headphones(i use usb c headphones, or esternal sound card to use 3,5 jack)
 
