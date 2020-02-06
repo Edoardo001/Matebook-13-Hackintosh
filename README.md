@@ -1,4 +1,4 @@
-# Huawei Matebook 13 Hackintosh Catalina LAST UPDATE 2020/02/06
+# Huawei Matebook 13 Hackintosh Catalina UPDATED 2020/02/06
 ## I've spent the majority of my spare time on this project, so if you want to support my works consider to make a donation(info at the end of the guide). 
 
 **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
