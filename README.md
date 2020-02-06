@@ -1,4 +1,4 @@
-Initial release 
+Initial release (many thanks to frezs for some files, that made me do thing in less time)
 Bugs
 Wifi(some great news about it, project is running good and maybe we will get fully fuctional kext for intel wifi, as we got for intel bluetooth(works without hot boot)
 Brightness keyboard shortcut
