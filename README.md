@@ -91,6 +91,7 @@ Once you have access of your usb drive EFi partition, copy the "Clover" folder o
 *To get better battery life, you can use cpu friend kext 
 run this command 
 > bash -c "$(curl -fsSL https://raw.githubusercontent.com/stevezhengshiqi/one-key-cpufriend/master/one-key-cpufriend.sh)"
+
 You have to choose in terminal what configuration use, i've choosed 800mhz and maximum power saving. I will generate 2 kext on the desktop that you have to install in "/Library/Extensions" folder.
 Thanks to [Stevezhengshiqi OneKey CPU Friend](https://github.com/stevezhengshiqi/one-key-cpufriend).
 
