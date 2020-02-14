@@ -1,4 +1,5 @@
 <div align="center">
+
 # Huawei Matebook 13 Hackintosh Mojave LAST UPDATE 2020/02/14
 
 ## I've spent the majority of my spare time on this project, so if you want to support my work, consider donating a small sum (info at the end of the guide). 
