@@ -1,6 +1,6 @@
 <div align="center">
 
-# Huawei Matebook 13 Hackintosh Catalina UPDATED 2020/02/06
+# Huawei Matebook 13 Hackintosh Catalina UPDATED 2020/02/14
 
 ## I've spent the majority of my spare time on this project, so if you want to support my work, consider donating a small sum (info at the end of the guide).
 
@@ -35,7 +35,7 @@ Many thanks to the tonymac forum guys for their awesome guides
 * sensors 
 * audio
 * Internal bluetooth (now, without any workaround)
-* almost all exept thing listed in "bugs"
+* almost everything exept things listed in "bugs"
 
 **Bugs:**
 * Camera (maybe not compatible with osx), will try to figure this out
@@ -46,7 +46,7 @@ You tell me
 **What you need:**
 * A working mac (hackinosh or vmware virtual machine work as well)
 * USB hub for the installation (connected on the usb port of Huawei original adaptator. If you have a usb type c otg connector you can use it to convert usb c to usb a)
-* Usb drive(al least 16GB)
+* Usb drive(at least 16GB)
 
 **Further notes and tips**
 * Format SSD to Mac APFS
