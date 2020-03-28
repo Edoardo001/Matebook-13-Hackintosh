@@ -107,7 +107,7 @@ To install it, run this command:
 You'll have to choose your configuration in the terminal. I've chosen 800MHz and maximum power saving. It'll generate two kext files on your desktop which you have to install to "/Library/Extensions".
 Thanks to [Stevezhengshiqi OneKey CPU Friend](https://github.com/stevezhengshiqi/one-key-cpufriend).
 
-**Try delete dsdt.aml from apci/patch, you will brake blacklight shortcut(Brightness slider in setting still working). Unfortunately some dsdt patches work only on my variant and I can't test on others**
+**If after copying CloverPost.zip files  you get bootloop try deleting dsdt.aml from apci/patch(will brake blacklight shortcut, brightness slider in setting still working). Unfortunately some dsdt patches work only on my variant and I can't test on others**
 
 I'm working on this project to build an almost fully functional hackintosh on this laptop.
 If you want to gelp me or join the project, you can write me an email: [edoardo001ct@gmail.com](mailto:edoardo001ct@gmail.com)
