@@ -58,6 +58,9 @@ You tell me
 * Versions with Western Digital nvme work out of the box 
 
 **Installation**
+
+**Remember update kext in Clover/Extensions/other in EFI folder, for example with Catalina 15.4 update my pc get panic until i updated whatevergreen and appleAlc kexts**
+
 * Download macOS from the appstore with a existing mac/hackintosh or with a vmware virtual machine(google is your friend)
 * Format a usb drive, Mac OS(Journaled) with gpt partition scheme and rename it in "osx" (at least 16GB)
 * Build the usb installer with this command:
