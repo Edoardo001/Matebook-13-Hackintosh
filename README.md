@@ -59,7 +59,7 @@ You tell me
 
 **Installation**
 
-**Remember update kext in Clover/Extensions/other in EFI folder, for example with Catalina 15.4 update my pc get panic until i updated whatevergreen and appleAlc kexts**
+**Remember update kext in Clover/Kexts/other(After downloading my files for both installation and post installation), for example with Catalina 15.4 update my pc get panic until i updated in EFI folder(EFI wiilwhatevergreen and appleAlc kexts**
 
 * Download macOS from the appstore with a existing mac/hackintosh or with a vmware virtual machine(google is your friend)
 * Format a usb drive, Mac OS(Journaled) with gpt partition scheme and rename it in "osx" (at least 16GB)
