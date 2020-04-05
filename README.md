@@ -16,6 +16,8 @@ I'm hoping to solve any bug you are reporting to me
 
 
 **Changelog**
+* **2020/04/05**
+  - Fixed panic in installation and post with 10.15.4 update
 * **2020/02/14**
   - English improved by [miit0o](https://github.com/miit0o)
 * **2020/01/06**
