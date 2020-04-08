@@ -19,6 +19,7 @@ I'm hoping to solve any bug you are reporting to me
 
 **Changelog**
 * **2020/04/08**
+  - Addes SSDT-USB for better battery drain
   - Fixed audio with hdmi
   - Fixed sleep after 15.4 update(Clover update)
   - Fixed logo resizing during boot, now apple remain with same size, only load bar change size. Overall is better but not          perfect
