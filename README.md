@@ -10,6 +10,8 @@ See what MacOS looks like on the Huawei Matebook 13 in this **[Youtube video](ht
 
 <hr>
 
+**Join telegram group** https://t.me/hackintosh_matebook13
+
 **In the next release**
 I'm hoping to solve any bug you are reporting to me
 - Internal intel wifi card support (There is som progress in intel wifi kext, hope to see a fully functional kext as we got with bluetooth)
