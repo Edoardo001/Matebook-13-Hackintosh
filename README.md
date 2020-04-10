@@ -18,6 +18,9 @@ I'm hoping to solve any bug you are reporting to me
 
 
 **Changelog**
+* **2020/04/10**
+  - Found a fix for jack 3,5(works perfect) but broke mic(Guide to fix in "Optimization" at the end of the guide)
+Still working to find a fix that make working jack and mic togheter. Any help is really appreciated.
 * **2020/04/08**
   - Addes SSDT-USB for better battery drain
   - Fixed audio with hdmi
@@ -100,6 +103,19 @@ Once you have access of your usb drive EFi partition, copy the "Clover" folder o
 
 
 **Optimizations**
+* You can choose to have internal speaker and internal mic working, but not the audio jack, or internal speaker and jack working but no internal mic
+
+*To make audio jack working
+> Open Clover>Config.plist and in Device>Properties>PciRoot(9x9)/Pci(0x1f,0x3)>layout-id and insert value "28"
+> Download AlcPlugFixx.zip from download section and extract it
+> Launch "sudo mount -uw /" in terminal
+> Open "AlcPlugFixx" and launch "autoinstall.command", wait 10 second, click "enter", close terminal and reboot laptop
+* To make internal mic working
+> Open Clover>Config.plist and in Device>Properties>PciRoot(9x9)/Pci(0x1f,0x3)>layout-id and insert value "13"
+> reboot laptop
+
+
+
 * If some apps are having trouble launching, try adding these commands to the bootflags 
 > shikigva=32
 
