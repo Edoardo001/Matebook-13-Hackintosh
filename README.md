@@ -105,12 +105,12 @@ Once you have access of your usb drive EFi partition, copy the "Clover" folder o
 **Optimizations**
 * You can choose to have internal speaker and internal mic working, but not the audio jack, or internal speaker and jack working but no internal mic
 
-*To make audio jack working
+- To make audio jack working
 > Open Clover>Config.plist and in Device>Properties>PciRoot(9x9)/Pci(0x1f,0x3)>layout-id and insert value "28"
 > Download AlcPlugFixx.zip from download section and extract it
 > Launch "sudo mount -uw /" in terminal
 > Open "AlcPlugFixx" and launch "autoinstall.command", wait 10 second, click "enter", close terminal and reboot laptop
-* To make internal mic working
+- To make internal mic working
 > Open Clover>Config.plist and in Device>Properties>PciRoot(9x9)/Pci(0x1f,0x3)>layout-id and insert value "13"
 > reboot laptop
 
