@@ -18,6 +18,8 @@ I'm hoping to solve any bug you are reporting to me
 
 
 **Changelog**
+* **2020/04/12**
+- HiDPI native setting(See in "Optimization" at the end of the guide)
 * **2020/04/10**
   - Found a fix for jack 3,5(works perfect) but broke mic(Guide to fix in "Optimization" at the end of the guide)
 Still working to find a fix that make working jack and mic togheter. Any help is really appreciated.
