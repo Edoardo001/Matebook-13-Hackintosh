@@ -104,6 +104,7 @@ Once you have access of your usb drive EFi partition, copy the "Clover" folder o
 
 **Optimizations**
 * How to enable hipi scaling on our display(Many thanks to Xzhih)
+like this: https://github.com/xzhih/one-key-hidpi/blob/master/img/hidpi.gif?raw=true 
 
 > 1 -   bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 
