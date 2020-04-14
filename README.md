@@ -102,7 +102,7 @@ Once you have access of your usb drive EFi partition, copy the "Clover" folder o
 * After boot, install same clover used in the installation, but this time on HDD
 * Extract **CATALINA CloverPost.zip** copy the "Clover" folder and replace the one in your EFI folder "EFI/CLOVER" like in the installation process, but this time on the HDD
 
-* If boot fails, try replacing "DSDT" in 'CLOVER/ACPI/PATCHED' with the alternative "DSDT" Provided by our friend Saigoxx(Without him, i would never fix brithness key on mx150 variant, because i don't have one). Try also enabling "_DSM to XDSM" in "config.plist > acpi" with Clover Configurator or Plist editor and then re try both dsdt.
+* If boot fails, try replacing "DSDT" in 'CLOVER/ACPI/PATCHED' with the alternative "DSDT" Provided by our friend Saigoxx(Without him, i would never fix brithness key on mx150 variant, because i don't have one to test). If neither this resolve, try enabling "_DSM to XDSM" in "config.plist > acpi" with Clover Configurator or Plist editor and then re try both dsdt.
 
 * Reboot and enjoy your Hackintosh (Some stuff might not be working perfectly, but Hackintoshing is a continuous process, so read carefully before complaining"
 
