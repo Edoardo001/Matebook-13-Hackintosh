@@ -1,4 +1,4 @@
-First open core beta 
+First open core version for our matebook 13
 
 
 Just put EFI folder in EFI partition.
