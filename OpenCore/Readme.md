@@ -2,7 +2,7 @@ First open core version for our matebook 13
 
 *i have very little time to work on this project because of my work and my exams, but thanks to the help provided by the guys in our awesome group, we've now have a pretty stable opencore version*
 
- [Official open core guide](https://www.youtube.com/watch?v=bGCNpHCqUcA), here you can find a lot useful installation,  and use our EFI prepared for our laptop
+ [Official open core guide](https://www.youtube.com/watch?v=bGCNpHCqUcA), here you can find a lot useful information about installation. Just follow that guide and use our EFI prepared for our laptop. Or follow my Catalina guide and in the post install, after installing clover, delete "EFI" folder in "EFI partition, and put this one with open core.
 
 
 Just put EFI folder in EFI partition.
