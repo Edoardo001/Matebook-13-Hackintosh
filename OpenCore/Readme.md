@@ -19,7 +19,7 @@ Improvements
 <summary>Fix alt and ctrl inverted</summary>
 
 > Go in settings>keyboard and click on "Modifier keys", invert options and command key. Voila!
-<details/>
+<details\>
 
 <details>
 <summary>Enable HIDPI (Many thanks to Xzhih)</summary>
