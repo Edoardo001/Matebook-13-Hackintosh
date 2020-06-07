@@ -19,7 +19,7 @@ Improvements
 <summary>Fix alt and ctrl inverted</summary>
 
 > Go in settings>keyboard and click on "Modifier keys", invert options and command key. Voila!
-<details\>
+</details>
 
 <details>
 <summary>Enable HIDPI (Many thanks to Xzhih)</summary>
@@ -31,4 +31,4 @@ Improvements
 > 3 -  Select 3 MacBook Pro
 
 > 4 -  Select 6 Manual input resolution and insert: 2160x1440 1920x1280 1600x1066 1280x854 1080x720
-<details/>
+</details>
