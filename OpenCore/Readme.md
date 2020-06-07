@@ -1,4 +1,4 @@
-First open core version for our matebook 13
+  <h1>First open core version for our matebook 13<h1>
 
 *i have very little time to work on this project because of my work and my exams, but thanks to the help provided by the guys in our awesome group, we've now have a pretty stable opencore version*
 
