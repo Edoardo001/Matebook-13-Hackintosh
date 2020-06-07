@@ -15,12 +15,15 @@ Deleting clover footprint by following this guide https://github.com/dortania/Op
 
 
 Improvements
+<details>
+<summary>Fix alt and ctrl inverted</summary>
 
-- Fix alt and ctrl inverted
 > Go in settings>keyboard and click on "Modifier keys", invert options and command key. Voila!
+<details/>
 
 <details>
-- How to enable hipi scaling on our display(Many thanks to Xzhih) like this: https://github.com/xzhih/one-key-hidpi/blob/master/img/hidpi.gif?raw=true
+<summary>Enable HIDPI (Many thanks to Xzhih)</summary>
+  
 > 1 -  bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 
 > 2 -  Select 1 Enable HIDPI
