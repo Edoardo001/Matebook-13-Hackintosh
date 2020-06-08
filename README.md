@@ -6,13 +6,17 @@
 
 </div>
 
-See what MacOS looks like on the Huawei Matebook 13 in this **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
+See what MacOS looks like on the Huawei Matebook 13 in this **[Youtube video](https://github.com/Edoardo001/Matebook-13-Hackintosh/tree/master/OpenCore).** 
 
 <hr>
 
 **Join telegram group** https://t.me/hackintosh_matebook13
 
-**In the next release**
+<div class="red">
+<a href="#" class="text-inherit"><h1>Clover support for this project was dropped, this means that all the new updates, will be on OpenCore, a new powerful bootloader, take a look here:  **OpenCore Matebook 13** https://t.me/hackintosh_matebook13</h1></a> 
+
+</div>
+
 I'm hoping to solve any bug you are reporting to me
 - Internal intel wifi card support (There is som progress in intel wifi kext, hope to see a fully functional kext as we got with bluetooth)
 
