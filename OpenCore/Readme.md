@@ -16,9 +16,11 @@ Just put EFI folder in EFI partition.
 - Fixed logo ridimensioning during boot
   
  </details>
+
+<h2>Post installation fix and patches</h2>
  
  <details>
-<summary>Deleting clover footprints</summary>
+<summary>Deleting clover footprints(for who come from Clover)</summary>
 Improvements
 Deleting clover footprint by following this awesome guide https://github.com/dortania/OpenCore-Desktop-Guide/tree/master/clover-conversion
  </details>
