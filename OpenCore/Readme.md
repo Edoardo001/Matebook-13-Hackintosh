@@ -1,12 +1,15 @@
-  <h1>First open core version for our matebook 13</h1>
+  ## I've spent the majority of my spare time on this project, so if you want to support my work, consider donating a small sum (info at the end of the guide).
+  
+  <h1>OpenCore Matebook 13 build</h1>
 
 *i have very little time to work on this project because of my work and my exams, but thanks to the help provided by the guys in our awesome group, we've now have a pretty stable opencore version*
 
  [Official open core guide](https://www.youtube.com/watch?v=bGCNpHCqUcA), here you can find a lot useful information about installation. Just follow that guide and use our EFI prepared for our laptop. Or follow my Catalina guide and in the post install, after installing clover, delete "EFI" folder in "EFI partition, and put this one with open core.
 
+**Join telegram group** https://t.me/hackintosh_matebook13
 
-Just put EFI folder in EFI partition.
-
+For who have a functional Clover build just put EFI folder in EFI partition.
+Who wants to start over new, have to follow the old guide, and in the post instead of Install Clover and other things, just put opencore EFI in the EFI partition(The folder efi must be in the efi partition(don't put files directly in the EFI partition),  so the path must be EFI/EFI/OC and EFI/EFI/BOOT. A more detailed guide will come.
 
 **Try this only if you have an usb with bootloader, or system backup to enter system in case of EFI corruption**
  <details>
@@ -54,3 +57,7 @@ sudo -v
 > sudo reboot
 
 </details>
+
+_**If you want to buy me a beer please click here:**_
+**[Buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
+).**
