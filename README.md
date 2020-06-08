@@ -13,7 +13,7 @@ See what MacOS looks like on the Huawei Matebook 13 in this **[Youtube video](ht
 **Join telegram group** https://t.me/hackintosh_matebook13
 
 
-<div class="text-red mb-2">Important notes</div>
+<div class="red-900">Important notes</div>
 Clover support for this project was dropped, this means that all the new updates, will be on OpenCore, a new powerful bootloader, take a look here:
 
 **[OpenCore Matebook13](https://github.com/Edoardo001/Matebook-13-Hackintosh/tree/master/OpenCore)** .
