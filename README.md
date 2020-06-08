@@ -6,14 +6,14 @@
 
 </div>
 
-See what MacOS looks like on the Huawei Matebook 13 in this **[Youtube video](https://github.com/Edoardo001/Matebook-13-Hackintosh/tree/master/OpenCore).** 
+See what MacOS looks like on the Huawei Matebook 13 in this **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
 <hr>
 
 **Join telegram group** https://t.me/hackintosh_matebook13
 
 <div class="red">
-<a href="#" class="text-inherit"><h1>Clover support for this project was dropped, this means that all the new updates, will be on OpenCore, a new powerful bootloader, take a look here:  **OpenCore Matebook 13** https://t.me/hackintosh_matebook13</h1></a> 
+<h1>Clover support for this project was dropped, this means that all the new updates, will be on OpenCore, a new powerful bootloader, take a look here:  **[OpenCore Matebook13](https://github.com/Edoardo001/Matebook-13-Hackintosh/tree/master/OpenCore).** </h1> 
 
 </div>
 
