@@ -8,14 +8,15 @@
 
 See what MacOS looks like on the Huawei Matebook 13 in this **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA).** 
 
-<hr>
+
 
 **Join telegram group** https://t.me/hackintosh_matebook13
 
 <div class="red">
-<Clover support for this project was dropped, this means that all the new updates, will be on OpenCore, a new powerful bootloader, take a look here:  [OpenCore Matebook13](https://github.com/Edoardo001/Matebook-13-Hackintosh/tree/master/OpenCore).
+Clover support for this project was dropped, this means that all the new updates, will be on OpenCore, a new powerful bootloader, take a look here:  **[OpenCore Matebook13](https://github.com/Edoardo001/Matebook-13-Hackintosh/tree/master/OpenCore)** .
 </div>
-[OpenCore Matebook13](https://github.com/Edoardo001/Matebook-13-Hackintosh/tree/master/OpenCore)
+
+**[OpenCore Matebook13](https://github.com/Edoardo001/Matebook-13-Hackintosh/tree/master/OpenCore)**
   
 I'm hoping to solve any bug you are reporting to me
 - Internal intel wifi card support (There is som progress in intel wifi kext, hope to see a fully functional kext as we got with bluetooth)
@@ -30,7 +31,7 @@ I'm hoping to solve any bug you are reporting to me
   - Found a fix for jack 3,5(works perfect) but broke mic(Guide to fix in "Optimization" at the end of the guide)
 Still working to find a fix that make working jack and mic togheter. Any help is really appreciated.
 * **2020/04/08**
-  - Addes SSDT-USB for better battery drain
+  - Added SSDT-USB for better battery drain
   - Fixed audio with hdmi
   - Fixed sleep after 15.4 update(Clover update)
   - Fixed logo resizing during boot, now apple remain with same size, only load bar change size. Overall is better but not          perfect
