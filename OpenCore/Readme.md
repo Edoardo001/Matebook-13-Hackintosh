@@ -40,3 +40,14 @@ Deleting clover footprint by following this awesome guide https://github.com/dor
 
 > 4 -  Select 6 Manual input resolution and insert: 2160x1440 1920x1280 1600x1066 1280x854 1080x720
 </details>
+
+<details>
+<summary>Fix iCloud request login on every boot in settings</summary>
+sudo -v
+killall -9 accountsd com.apple.iCloudHelper
+defaults delete MobileMeAccounts
+rm -rf ~/Library/Accounts
+killall -9 accountsd com.apple.iCloudHelper
+sudo reboot
+
+</details>
