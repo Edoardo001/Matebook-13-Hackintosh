@@ -21,9 +21,8 @@ Just put EFI folder in EFI partition.
  
  <details>
 <summary>Deleting clover footprints(for who come from Clover)</summary>
-Improvements
-Deleting clover footprint by following this awesome guide https://github.com/dortania/OpenCore-Desktop-Guide/tree/master/clover-conversion
- </details>
+Following this awesome guide https://github.com/dortania/OpenCore-Desktop-Guide/tree/master/clover-conversion
+</details>
 
 <details>
 <summary>Fix alt and ctrl inverted</summary>
@@ -40,7 +39,9 @@ Deleting clover footprint by following this awesome guide https://github.com/dor
 
 > 3 -  Select 3 MacBook Pro
 
-> 4 -  Select 6 Manual input resolution and insert: 2160x1440 1920x1280 1600x1066 1280x854 1080x720
+> 4 -  Select 6 Manual input resolution 
+
+> 5 -  Insert: 2160x1440 1920x1280 1600x1066 1280x854 1080x720
 </details>
 
 <details>
