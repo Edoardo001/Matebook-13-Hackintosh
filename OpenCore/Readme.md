@@ -14,6 +14,7 @@ Who wants to start over new, have to follow the old guide, and in the post inste
 **Try this only if you have an usb with bootloader, or system backup to enter system in case of EFI corruption**
 <details>
 <summary>Known bugs</summary>
+
 - Audio jack wont work(we are doing our best to fix it) 
 
 - Camera(for most of the hackintosh laptops, the camera works out of the box, for now we have to surrender)
@@ -25,7 +26,9 @@ Who wants to start over new, have to follow the old guide, and in the post inste
  <details>
 <summary>Changelog</summary>
  06/06/2020
+
 - Fixed brigthness keys(thanks to Kitsu Liu)
+
 - Fixed logo ridimensioning during boot
   
  </details>
