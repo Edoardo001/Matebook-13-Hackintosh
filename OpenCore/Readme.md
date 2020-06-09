@@ -15,7 +15,9 @@ Who wants to start over new, have to follow the old guide, and in the post inste
 <details>
 <summary>Known bugs</summary>
 - Audio jack wont work(we are doing our best to fix it) 
+
 - Camera(for most of the hackintosh laptops, the camera works out of the box, for now we have to surrender)
+
 - Wifi(Testing beta wifi kext, better wait for now) 
   
  </details>
