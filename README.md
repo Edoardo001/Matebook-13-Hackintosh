@@ -6,8 +6,7 @@
 
 </div>
 
-See what MacOS looks like on the Huawei Matebook 13 in this
- **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA "OpenCore Matebook13)** . 
+See what MacOS looks like on the Huawei Matebook 13 in this **[Youtube video](https://www.youtube.com/watch?v=bGCNpHCqUcA)** . 
 
 
 
