@@ -12,6 +12,14 @@ For who have a functional Clover build just put EFI folder in EFI partition.
 Who wants to start over new, have to follow the old guide, and in the post instead of Install Clover and other things, just put opencore EFI in the EFI partition(The folder efi must be in the efi partition(don't put files directly in the EFI partition),  so the path must be EFI/EFI/OC and EFI/EFI/BOOT. A more detailed guide will come.
 
 **Try this only if you have an usb with bootloader, or system backup to enter system in case of EFI corruption**
+<details>
+<summary>Known bugs</summary>
+- Audio jack wont work(we are doing our best to fix it) 
+- Camera(for most of the hackintosh laptops, the camera works out of the box, for now we have to surrender)
+- Wifi(Testing beta wifi kext, better wait for now) 
+  
+ </details>
+
  <details>
 <summary>Changelog</summary>
  06/06/2020
