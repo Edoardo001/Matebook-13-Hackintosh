@@ -8,10 +8,54 @@
 
 **Join telegram group** https://t.me/hackintosh_matebook13
 
-For who have a functional Clover build just put EFI folder in EFI partition.
-Who wants to start over new, have to follow the old guide, and in the post instead of Install Clover and other things, just put opencore EFI in the EFI partition(The folder efi must be in the efi partition(don't put files directly in the EFI partition),  so the path must be EFI/EFI/OC and EFI/EFI/BOOT. A more detailed guide will come.
+
+<details>
+  <summary> New installation</summary>
+What you need:
+
+A working mac (hackinosh or vmware virtual machine work as well)
+USB hub for the installation (connected on the usb port of Huawei original adaptator. If you have a usb type c otg connector you can use it to convert usb c to usb a)
+Usb drive(at least 16GB)
+Further notes and tips
+
+Format SSD to Mac APFS
+Use left usb port or you'll get errors during installation
+Use a USB hub during installation or a OTG usb C adaptator to convert usb c port to usb a
+Versions with Samsung PM981 NVMe need ssd to be replaced
+Versions with Western Digital nvme work out of the box
+
+Installation
+
+**Remember update kext in EFI/OC/Kexts(After downloading, to have latest ones)
+
+I've used to write guide myself, but OpenCore guys, have done a greato job, so it's useless to rewrite it, just follow the steps to make usb, and put my EFI folder in the EFI partition
+
+Here, how to build the usb for the installation:
+https://dortania.github.io/OpenCore-Desktop-Guide/installer-guide/
+
+
+Post Installation
+
+After boot, mount the EFI partition of the internal disk
+/
+Extract OpenCorePost.zip copy the "EFI" folder your EFI partition(like in the installation process, but this time on the HDD)
+
+
+Reboot and enjoy your Hackintosh (Some stuff might not be working perfectly, but Hackintoshing is a continuous process, so read carefully before complaining"
+
+
+</details>
+<details>
+  <summary> Conversion from Clover</summary>
+*No dual boot support for now*
+
+Who have a working Clover build, just have to put EFI folder in EFI partition(Delete all files and folders from EFI partition before).
+The folder efi must be in the efi partition(don't put files directly in the EFI partition),  so the path must be EFI/EFI/OC and EFI/EFI/BOOT.
 
 **Try this only if you have an usb with bootloader, or system backup to enter system in case of EFI corruption**
+
+</details>
+
 <details>
 <summary>Known bugs</summary>
 
