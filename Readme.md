@@ -1,7 +1,8 @@
   ## I've spent the majority of my spare time on this project, so if you want to support my work, consider donating a small sum (info at the end of the guide).
   
   <h1>OpenCore Matebook 13 build</h1>
-  > latest update 10/06/20
+ 
+ > latest update 10/06/20
 
 *i have very little time to work on this project because of my work and my exams, but thanks to the help provided by the guys in our awesome group, we've now have a pretty stable opencore version*
 
