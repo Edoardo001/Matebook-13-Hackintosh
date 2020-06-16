@@ -135,13 +135,21 @@ sudo -v
 Disable some hibernation behaviour that not works well on hackintoshes
   
 > sudo pmset -a hibernatemode 0
+
 > sudo rm -rf /private/var/vm/sleepimage
+
 > sudo touch /private/var/vm/sleepimage
+
 > sudo chflags uchg /private/var/vm/sleepimage
+
 > sudo pmset -a standby 0
+
 > sudo pmset -a autopoweroff 0
+
 > sudo pmset -a powernap 0
+
 > sudo pmset -a proximitywake 0
+
 > sudo pmset -b tcpkeepalive 0
 
 </details>
