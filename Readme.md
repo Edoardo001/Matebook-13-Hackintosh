@@ -132,7 +132,7 @@ sudo -v
 
 <details>
 <summary>Fix sleep issues</summary>
-Disable some hibernation behaviour that not works well on hackintoshes
+Disable some hibernation behaviours that not works well on hackintoshes
   
 > sudo pmset -a hibernatemode 0
 
