@@ -73,7 +73,7 @@ The folder efi must be in the efi partition(don't put files directly in the EFI 
 <summary>Changelog</summary>
  16/06/2020
 
-- Added proper usb mapping
+- Added proper usb mapping to fix sleep issues and obtain better battery life 
 
 - Fixed sleep
 
