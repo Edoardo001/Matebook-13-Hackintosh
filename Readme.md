@@ -2,7 +2,7 @@
   
   <h1>OpenCore Matebook 13 build</h1>
  
- > latest update 09/06/20
+ > latest update 16/06/20
 
 *i have very little time to work on this project because of my work and my exams, but thanks to the help provided by the guys in our awesome group, we've now have a pretty stable opencore version*
 
@@ -71,6 +71,19 @@ The folder efi must be in the efi partition(don't put files directly in the EFI 
 
  <details>
 <summary>Changelog</summary>
+ 16/06/2020
+
+- Added proper usb mapping
+
+- Fixed sleep
+
+- Added proper CpuFriendKext to reach lower frequencies when laptop is in idle and max frequencies when it's needed according with our cpu capabilities 
+
+- Now Opencore has an bios entry to prevent others os updates corrupt osx boot 
+
+- Remove deprecated values from Config.plist
+  
+
  06/06/2020
 
 - Fixed brigthness keys(thanks to Kitsu Liu)
