@@ -130,6 +130,22 @@ sudo -v
 
 </details>
 
+<details>
+<summary>Fix sleep issues</summary>
+Disable some hibernation behaviour that not works well on hackintoshes
+  
+> sudo pmset -a hibernatemode 0
+> sudo rm -rf /private/var/vm/sleepimage
+> sudo touch /private/var/vm/sleepimage
+> sudo chflags uchg /private/var/vm/sleepimage
+> sudo pmset -a standby 0
+> sudo pmset -a autopoweroff 0
+> sudo pmset -a powernap 0
+> sudo pmset -a proximitywake 0
+> sudo pmset -b tcpkeepalive 0
+
+</details>
+
 _**If you want to buy me a beer please click here:**_
 **[Buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
 ).**
