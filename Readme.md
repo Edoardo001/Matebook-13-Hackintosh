@@ -71,6 +71,10 @@ The folder efi must be in the efi partition(don't put files directly in the EFI 
 
  <details>
 <summary>Changelog</summary>
+ 17/06/2020
+-Raised min cpu frequency that causes lags
+
+
  16/06/2020
 
 - Enabled AppleCpuPmCfgLock for better power managment
