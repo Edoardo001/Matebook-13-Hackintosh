@@ -73,7 +73,7 @@ The folder efi must be in the efi partition(don't put files directly in the EFI 
 <summary>Changelog</summary>
  17/06/2020
 
--Raised min cpu frequency that causes lags
+- Raised min cpu frequency that causes lags
 
 
 
