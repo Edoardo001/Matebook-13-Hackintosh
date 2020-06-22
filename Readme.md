@@ -115,16 +115,18 @@ Following this awesome guide https://github.com/dortania/OpenCore-Desktop-Guide/
 
 <details>
 <summary>Enable HIDPI (Many thanks to Xzhih)</summary>
-  
-> 1 -  bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 
-> 2 -  Select 1 Enable HIDPI
+```
+ 1 -  bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 
-> 3 -  Select 3 MacBook Pro
+ 2 -  Select 1 Enable HIDPI
 
-> 4 -  Select 6 Manual input resolution 
+ 3 -  Select 3 MacBook Pro
 
-> 5 -  Insert: 2160x1440 1920x1280 1600x1066 1280x854 1080x720
+ 4 -  Select 6 Manual input resolution 
+
+ 5 -  Insert: 2160x1440 1920x1280 1600x1066 1280x854 1080x720
+```
 </details>
 
 <details>
@@ -145,23 +147,17 @@ sudo reboot
 <summary>Fix sleep issues</summary>
 Disable some hibernation behaviours that not works well on hackintoshes
   
-> sudo pmset -a hibernatemode 0
-
-> sudo rm -rf /private/var/vm/sleepimage
-
-> sudo touch /private/var/vm/sleepimage
-
-> sudo chflags uchg /private/var/vm/sleepimage
-
-> sudo pmset -a standby 0
-
-> sudo pmset -a autopoweroff 0
-
-> sudo pmset -a powernap 0
-
-> sudo pmset -a proximitywake 0
-
-> sudo pmset -b tcpkeepalive 0
+  ```
+ sudo pmset -a hibernatemode 0
+ sudo rm -rf /private/var/vm/sleepimage
+ sudo touch /private/var/vm/sleepimage
+ sudo chflags uchg /private/var/vm/sleepimage
+ sudo pmset -a standby 0
+ sudo pmset -a autopoweroff 0
+ sudo pmset -a powernap 0
+ sudo pmset -a proximitywake 0
+ sudo pmset -b tcpkeepalive 0
+```
 
 </details>
 
