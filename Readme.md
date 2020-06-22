@@ -129,7 +129,7 @@ Following this awesome guide https://github.com/dortania/OpenCore-Desktop-Guide/
 
 <details>
 <summary>Fix iCloud request login on every boot in settings</summary>
-sudo -v
+> sudo -v
 
 > killall -9 accountsd com.apple.iCloudHelper
   
