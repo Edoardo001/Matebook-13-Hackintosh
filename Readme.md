@@ -2,7 +2,7 @@
   
   <h1>OpenCore Matebook 13 build</h1>
  
- > latest update 16/06/20
+ > latest update 02/07/20
 
 *i have very little time to work on this project because of my work and my exams, but thanks to the help provided by the guys in our awesome group, we've now have a pretty stable opencore version*
 
@@ -71,6 +71,12 @@ The folder efi must be in the efi partition(don't put files directly in the EFI 
 
  <details>
 <summary>Changelog</summary>
+ 02/07/2020
+
+- Fixed random boot fails
+
+- Separated build for mx graphics version and intel hd graphics only version
+ 
  17/06/2020
 
 - Raised min cpu frequency that causes lags
