@@ -179,7 +179,7 @@ https://github.com/randomprofilename/ComboJack
   
 
   ```
-  Since in my build i've  integrated verbstub kext, you have just to  run install.sh in terminal, by going in the extracted folder in terminal and run
+  Since in my build i've  integrated verbstub kext, you have just to  run install.sh in terminal, with this command(ensure you are in the right folder in terminal)
 
 > ./install.sh
 ```
