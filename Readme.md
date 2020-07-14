@@ -2,7 +2,7 @@
   
   <h1>OpenCore Matebook 13 build</h1>
  
- > latest update 02/07/20
+ > latest update 14/07/20
 
 *i have very little time to work on this project because of my work and my exams, but thanks to the help provided by the guys in our awesome group, we've now have a pretty stable opencore version*
 
@@ -60,17 +60,23 @@ The folder efi must be in the efi partition(don't put files directly in the EFI 
 
 <details>
 <summary>Known bugs</summary>
-
-- Audio jack wont work(we are doing our best to fix it) 
-
 - Camera(for most of the hackintosh laptops, the camera works out of the box, for now we have to surrender)
 
 - Wifi(Testing beta wifi kext, better wait for now) 
+
+- You tell me
   
  </details>
 
  <details>
 <summary>Changelog</summary>
+  14/07/2020
+
+- Fixed audio jack(Thanks to our telegram friend Alex Larionov that found a Combojack working with our layout id)
+
+- Updated bluetooth kext for better stability
+  
+  
  02/07/2020
 
 - Fixed random boot fails
