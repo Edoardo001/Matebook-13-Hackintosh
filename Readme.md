@@ -167,6 +167,19 @@ Disable some hibernation behaviours that not works well on hackintoshes
 
 </details>
 
+<details>
+<summary>Fix Audio Jack(thanks to randomprofilename)</summary>
+https://github.com/randomprofilename/ComboJack
+  
+
+  ```
+  Since in my build i've  integrated verbstub kext, you have just to  run install.sh in terminal, by going in the extracted folder in terminal and run
+
+> ./install.sh
+```
+
+</details>
+
 _**If you want to buy me a beer please click here:**_
 **[Buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2NMM7HN9SJRVE&source=url
 ).**
