@@ -60,6 +60,7 @@ The folder efi must be in the efi partition(don't put files directly in the EFI 
 
 <details>
 <summary>Known bugs</summary>
+
 - Camera(for most of the hackintosh laptops, the camera works out of the box, for now we have to surrender)
 
 - Wifi(Testing beta wifi kext, better wait for now) 
