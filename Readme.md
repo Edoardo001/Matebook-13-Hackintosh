@@ -114,6 +114,14 @@ The folder efi must be in the efi partition(don't put files directly in the EFI 
  </details>
 
 <h2>Post installation fix and patches</h2>
+
+<details>
+<summary>Fix Wifi</summary>
+
+Download Itwlm kext here https://github.com/OpenIntelWireless/itlwm/releases and put in EFI/OC/KEXT and enable in config.plist in Kernel/add/itlwm by set "TRUE" in "Enabled"
+Download Heliport here https://github.com/OpenIntelWireless/HeliPort/releases and install it
+
+</details>
  
  <details>
 <summary>Deleting clover footprints(for who come from Clover)</summary>
