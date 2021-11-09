@@ -1,8 +1,10 @@
   ## I've spent the majority of my spare time on this project, so if you want to support my work, consider donating a small sum (info at the end of the guide).
+
+**Other version than I7-8565u with only igpu(no touchscreen), are no lonnger supported, this may work and your version too, consider to give a try
   
   <h1>OpenCore Matebook 13 build</h1>
- 
- > latest update 14/07/20
+ > latest update 09/11/21
+ Check releases for builds and changelos
 
 *i have very little time to work on this project because of my work and my exams, but thanks to the help provided by the guys in our awesome group, we've now have a pretty stable opencore version*
 
